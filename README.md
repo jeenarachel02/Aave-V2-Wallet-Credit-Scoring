@@ -11,7 +11,7 @@ Use these scores as training labels to build a Random Forest Regression model th
 This approach helps blend explainability (rules) and learning from patterns (ML).  
 
 ## Architecture
-![BlockDiagram](Images/BlockDiagram.png)
+![BlockDiagram](BlockDiagram.png)
 ### 1.Input
 JSON file containing 100K Aave V2 user transactions.  
 Each transaction has fields like userWallet, action, amount, assetPriceUSD, and timestamp  
